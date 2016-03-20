@@ -39,7 +39,7 @@ namespace MpNG
 
         private void IpLogo_Click(object sender, EventArgs e)
         {
-            Process.Start("http://ipmix.de/");
+            Process.Start("http://ipmix.de/pages/downloads/#mpng");
         }
 
         private void ItemDragDrop(object sender, DragEventArgs e)
