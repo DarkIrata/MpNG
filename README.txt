@@ -1,4 +1,3 @@
-# MpNG
 // Author: W. Batt
 // Visit: http://ipmix.de/
 // Open Source: https://github.com/DarkIrata/MpNG
